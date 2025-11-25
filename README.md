@@ -102,12 +102,8 @@ The app requires the following permissions:
 ## Future Enhancements
 
 - [ ] Add GPU acceleration for faster processing
-- [ ] Implement advanced ML models (FILM, RIFE)
-- [ ] Add video preview before processing
-- [ ] Support batch processing
-- [ ] Add quality presets (fast/balanced/high quality)
-- [ ] Implement background processing with notifications
-- [ ] Add video trimming/cropping before interpolation
+- [x] Implement background processing with notifications
+- [x] Add video trimming/cropping before interpolation
 
 ## Troubleshooting
 
