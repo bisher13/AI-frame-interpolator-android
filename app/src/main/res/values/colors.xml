@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 - Dark Theme Colors (Purple/Blue scheme) -->
+    <color name="md_theme_primary">#BB86FC</color>
+    <color name="md_theme_onPrimary">#3700B3</color>
+    <color name="md_theme_primaryContainer">#6200EE</color>
+    <color name="md_theme_onPrimaryContainer">#EFDBFF</color>
+    
+    <color name="md_theme_secondary">#03DAC6</color>
+    <color name="md_theme_onSecondary">#00574B</color>
+    <color name="md_theme_secondaryContainer">#018786</color>
+    <color name="md_theme_onSecondaryContainer">#A7F3EB</color>
+    
+    <color name="md_theme_background">#121212</color>
+    <color name="md_theme_onBackground">#E6E1E5</color>
+    <color name="md_theme_surface">#1E1E1E</color>
+    <color name="md_theme_onSurface">#E6E1E5</color>
+    
+    <color name="md_theme_error">#CF6679</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#EFDBFF</color>
+    <color name="accent">#03DAC6</color>
+    <color name="text_primary">#E6E1E5</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="divider">#2C2C2C</color>
+    <color name="background">#121212</color>
+    
+    <!-- Surface colors for cards and elevation -->
+    <color name="surface_1">#232323</color>
+    <color name="surface_2">#292929</color>
+    <color name="surface_3">#2E2E2E</color>
+    <color name="surface_4">#333333</color>
+    <color name="surface_5">#383838</color>
+</resources>

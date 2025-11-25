@@ -1,0 +1,6 @@
+com.videointerpolation.app.test.app-jetified-core-1.5.0-0 C:\Users\vfxno\.gradle\caches\transforms-3\3196717e51ece166da9ed739f3c9c8bf\transformed\jetified-core-1.5.0\res
+com.videointerpolation.app.test.app-jetified-annotation-experimental-1.3.1-1 C:\Users\vfxno\.gradle\caches\transforms-3\751d0e6e105d9f72b7cf51b71008df10\transformed\jetified-annotation-experimental-1.3.1\res
+com.videointerpolation.app.test.app-androidTest-2 C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\build\generated\res\resValues\androidTest\debug
+com.videointerpolation.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.videointerpolation.app.test.app-mergeDebugAndroidTestResources-4 C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.videointerpolation.app.test.app-merged_res-5 C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\build\intermediates\merged_res\debugAndroidTest

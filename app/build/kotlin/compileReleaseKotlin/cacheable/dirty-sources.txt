@@ -1,0 +1,13 @@
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\MainActivity.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\ml\OnnxInterpolator.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\FrameExtractor.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\ml\OpticalFlowInterpolator.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\work\BatchInterpolationWorker.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\utils\VideoProcessor.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\ml\GpuOpticalFlowInterpolator.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\work\VideoInterpolationWorker.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\ml\FrameInterpolator.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\data\AppSettings.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\VideoTrimActivity.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\utils\VideoEncoder.kt
+C:\Users\vfxno\Downloads\AI_FRAME_INTERPOLATION\app\src\main\java\com\videointerpolation\app\SettingsActivity.kt

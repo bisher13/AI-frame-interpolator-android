@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#03DAC6</color>
+    <color name="background">#121212</color>
+    <color name="divider">#2C2C2C</color>
+    <color name="ic_launcher_background">#1976D2</color>
+    <color name="md_theme_background">#121212</color>
+    <color name="md_theme_error">#CF6679</color>
+    <color name="md_theme_onBackground">#E6E1E5</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onPrimary">#3700B3</color>
+    <color name="md_theme_onPrimaryContainer">#EFDBFF</color>
+    <color name="md_theme_onSecondary">#00574B</color>
+    <color name="md_theme_onSecondaryContainer">#A7F3EB</color>
+    <color name="md_theme_onSurface">#E6E1E5</color>
+    <color name="md_theme_primary">#BB86FC</color>
+    <color name="md_theme_primaryContainer">#6200EE</color>
+    <color name="md_theme_secondary">#03DAC6</color>
+    <color name="md_theme_secondaryContainer">#018786</color>
+    <color name="md_theme_surface">#1E1E1E</color>
+    <color name="primary">#BB86FC</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="primary_light">#EFDBFF</color>
+    <color name="surface_1">#232323</color>
+    <color name="surface_2">#292929</color>
+    <color name="surface_3">#2E2E2E</color>
+    <color name="surface_4">#333333</color>
+    <color name="surface_5">#383838</color>
+    <color name="text_primary">#E6E1E5</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <string name="app_description">Create smooth slow-motion videos by interpolating frames</string>
+    <string name="app_name">Video Interpolation</string>
+    <string name="info_text">This app uses frame interpolation to create smooth slow-motion videos. Select a video, choose your desired frame rate multiplier (2x-10x), and process. The app will extract frames, generate intermediate frames using AI, and encode them into a new high-framerate video.\n\nNote: Processing may take several minutes depending on video length and device performance.</string>
+    <string name="process_video">Process Video</string>
+    <string name="select_video">Select Video</string>
+    <style name="ShapeAppearance.App.LargeComponent" parent="ShapeAppearance.Material3.LargeComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+    <style name="ShapeAppearance.App.MediumComponent" parent="ShapeAppearance.Material3.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="ShapeAppearance.App.SmallComponent" parent="ShapeAppearance.Material3.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">12dp</item>
+    </style>
+    <style name="Theme.VideoInterpolation" parent="Theme.Material3.Dark">
+        
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_onPrimaryContainer</item>
+        
+        
+        <item name="colorSecondary">@color/md_theme_secondary</item>
+        <item name="colorOnSecondary">@color/md_theme_onSecondary</item>
+        <item name="colorSecondaryContainer">@color/md_theme_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/md_theme_onSecondaryContainer</item>
+        
+        
+        <item name="android:colorBackground">@color/md_theme_background</item>
+        <item name="colorOnBackground">@color/md_theme_onBackground</item>
+        <item name="colorSurface">@color/md_theme_surface</item>
+        <item name="colorOnSurface">@color/md_theme_onSurface</item>
+        
+        
+        <item name="colorError">@color/md_theme_error</item>
+        <item name="colorOnError">@color/md_theme_onError</item>
+        
+        
+        <item name="android:statusBarColor">@color/md_theme_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.App.SmallComponent</item>
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.App.MediumComponent</item>
+        <item name="shapeAppearanceLargeComponent">@style/ShapeAppearance.App.LargeComponent</item>
+    </style>
+</resources>

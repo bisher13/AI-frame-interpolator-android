@@ -1,0 +1,24 @@
+# Known-good conversion stack (Windows, x64)
+# Recommended with Python 3.10.x
+
+# Core
+tensorflow==2.12.0
+onnx==1.13.1
+
+# Preferred path
+onnx2tf==1.20.0
+
+# Fallback path (only if needed)
+onnx-tf==1.10.0
+
+# onnx2tf optional deps
+onnx-graphsurgeon>=0.3.27
+psutil>=5.9.0
+ai-edge-litert>=0.0.1
+
+# Some models/converters use addons; this version matches TF 2.12
+tensorflow-addons==0.21.0
+
+# Keras API shim used by onnx2tf
+# (tf-keras follows TF; any recent version typically works)
+tf-keras

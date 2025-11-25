@@ -1,0 +1,7 @@
+# Python 3.9-compatible conversion stack
+# Optimized for onnx-tf path (simpler, fewer dependencies)
+
+tensorflow==2.12.0
+onnx==1.10.2
+onnx-tf==1.10.0
+tensorflow-addons==0.21.0

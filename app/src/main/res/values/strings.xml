@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Interpolation</string>
+    <string name="app_description">Create smooth slow-motion videos by interpolating frames</string>
+    <string name="select_video">Select Video</string>
+    <string name="process_video">Process Video</string>
+    <string name="info_text">This app uses frame interpolation to create smooth slow-motion videos. Select a video, choose your desired frame rate multiplier (2x-10x), and process. The app will extract frames, generate intermediate frames using AI, and encode them into a new high-framerate video.\n\nNote: Processing may take several minutes depending on video length and device performance.</string>
+</resources>

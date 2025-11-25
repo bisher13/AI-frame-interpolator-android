@@ -1,0 +1,3 @@
+com.videointerpolation.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
